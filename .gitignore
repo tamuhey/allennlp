@@ -2,7 +2,7 @@
 
 .eggs/
 .mypy_cache
-allennlp.egg-info/
+*.egg-info/
 build/
 dist/
 pip-wheel-metadata/

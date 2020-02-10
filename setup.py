@@ -82,7 +82,7 @@ setup_requirements = [
 ] + pytest_runner
 
 setup(
-    name="allennlp",
+    name="unofficial-allennlp-nightly",
     version=VERSION["VERSION"],
     description="An open-source NLP research library, built on PyTorch.",
     long_description=open("README.md").read(),
